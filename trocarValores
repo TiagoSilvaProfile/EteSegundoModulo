@@ -1,0 +1,21 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class trocarValores {
+    public static void main (String[] args){
+
+        Scanner sc = new Scanner(System.in);
+
+        String primeiroNome = "mestre do universo";
+        String segundoNome;
+
+        System.out.println("Favor inserir o valor 2:\n");
+        segundoNome = sc.nextLine();
+
+        String nomeUm = segundoNome;
+        String nomeDois = primeiroNome;
+
+        System.out.println(nomeUm+" "+nomeDois);
+    }
+}
