@@ -1,0 +1,18 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class mostrarNome {
+
+    public static void main (String[] args){
+
+        Scanner sc = new Scanner(System.in);
+
+        String nome;
+
+        System.out.println("Qual o seu nome?");
+        nome =  sc.nextLine();
+
+        System.out.println("olá "+nome+"!");
+    }
+}
