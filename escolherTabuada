@@ -1,0 +1,29 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class escolherTabuada {
+
+    public static void main(String[] args){
+
+        Scanner sc = new Scanner(System.in);
+
+        int valor;
+
+        System.out.println("Escolha a tabuada digitando o(s) número(s)\n");
+        valor = sc.nextInt();
+
+        System.out.println("Segue anexo a tabuada completa até 10");
+        System.out.println(valor+" * 1 = "+valor*1);
+        System.out.println(valor+" * 2 = "+valor*2);
+        System.out.println(valor+" * 3 = "+valor*3);
+        System.out.println(valor+" * 4 = "+valor*4);
+        System.out.println(valor+" * 5 = "+valor*5);
+        System.out.println(valor+" * 6 = "+valor*6);
+        System.out.println(valor+" * 7 = "+valor*7);
+        System.out.println(valor+" * 8 = "+valor*8);
+        System.out.println(valor+" * 9 = "+valor*9);
+        System.out.println(valor+" * 10 = "+valor*10);
+
+    }
+}
