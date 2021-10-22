@@ -1,0 +1,30 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class desconto {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String produto;
+        double valor;
+
+        System.out.println("Qual o nome do produto?");
+        produto = sc.nextLine();
+        System.out.println("Qual o valor do produto?");
+        valor = sc.nextDouble();
+
+        if (valor > 100 && valor <=200){
+            System.out.println("Você ganhou o desconto de 10%, de R$"+valor+" para R$"+(valor-(valor*0.1)));
+        }else if (valor > 200 && valor <=300){
+            System.out.println("Você ganhou o desconto de 20%, de R$"+valor+" para R$"+(valor-(valor*0.2)));
+        }else if (valor > 300){
+            System.out.println("Você ganhou o desconto de 30%, de R$"+valor+" para R$"+(valor-(valor*0.3)));
+        }else{
+            System.out.println("Compra finalizada no valor de R$"+valor);
+        }
+
+    }
+}
