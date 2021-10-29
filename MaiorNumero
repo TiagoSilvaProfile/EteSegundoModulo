@@ -1,0 +1,25 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class MaiorNumero {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("informe tres valores: ");
+        int primeiroValor = sc.nextInt();
+        int segundoValor = sc.nextInt();
+        int terceiroValor = sc.nextInt();
+
+        if (primeiroValor > segundoValor && primeiroValor > terceiroValor) {
+            System.out.println("Maior valor: " + primeiroValor);
+        } else if (segundoValor > primeiroValor && segundoValor > terceiroValor) {
+            System.out.println("Maior valor: " + segundoValor);
+        } else if (terceiroValor > primeiroValor && terceiroValor > segundoValor) {
+            System.out.println("Maior valor: " + terceiroValor);
+        }else if (primeiroValor == segundoValor && primeiroValor==terceiroValor){
+            System.out.println("Todos os valores são iguais");
+        }
+    }
+}
