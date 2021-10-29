@@ -1,0 +1,20 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Convidados {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String [] convidados = new String[5];
+
+        for(int i = 0; i < 5; i++) {
+            System.out.println("Convidado: ");
+            convidados[i] = sc.next();
+            System.out.println("O nome do " + (i + 1) + "º convidado é "+convidados[i]);
+
+        }
+    }
+}
