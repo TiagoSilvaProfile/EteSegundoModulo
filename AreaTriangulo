@@ -1,0 +1,26 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class AreaTriangulo {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        double altura;
+        double base;
+        double area;
+
+        System.out.println("Informe qual a altura");
+        altura = sc.nextDouble();
+        System.out.println("Informe qual a base");
+        base = sc.nextDouble();
+
+        area = altura*base/2;
+
+        System.out.println("O valor da area é de "+area);
+
+
+    }
+}
