@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9962b2bf-0d4d-49a2-853a-5c8635833d4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Controller/Helper/LoginHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Model/Agendamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Model/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Model/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Model/Servico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/Model/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Agenda.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Login.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/MenuPrincipal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/MenuPrincipal$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/MenuPrincipal$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/MenuPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/MenuPrincipal.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/Agenda-PainelFundo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/AgendaFundo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/fundo-MenuPrincipal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/agenda-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/agenda32-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/cliente-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/cliente32-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/relatorioTrabalho-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/relatorioTrabalho24-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/relatorioTrabalho32-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/tesoura-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/tesoura32-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/usuario-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/icons/usuario32-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/build/classes/View/imagens/painel-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/dist/BarberShopCurso.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/dist/lib/AbsoluteLayout.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/src/Model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/BarberShopCurso/src/Model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/src/Model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/BarberShopCurso/src/Model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarberShopCurso/src/View/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/BarberShopCurso/src/View/Login.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BarberShopCurso" />
+  </component>
+  <component name="ProjectId" id="1zPttRNTJnCmIA4FyupURgt8SOr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9962b2bf-0d4d-49a2-853a-5c8635833d4e" name="Default Changelist" comment="" />
+      <created>1634061775877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634061775877</updated>
+    </task>
+    <servers />
+  </component>
+</project>
